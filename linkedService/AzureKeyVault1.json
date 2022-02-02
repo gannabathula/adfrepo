@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://rajukeyvault123.vault.azure.net/"
+			"baseUrl": "https://rajukeyvault12.vault.azure.net/"
 		}
 	}
 }
